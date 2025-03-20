@@ -4,6 +4,17 @@
 format: jb-book
 root: intro
 chapters:
-- file: section_1.md
-- file: section_2.md
-- file: section_3.md
+- file: organisational_chart.md
+- file: hr_policies.md
+- file: mailing_lists.md
+- file: list_of_ssi_meetings.md
+- file: database_of_responsibilities.md
+- file: lastpass_and_ssi_accounts.md
+- file: project_mgt.md
+- file: pmo_procedures_for_ssi_staff.md
+- file: communications_procedures.md
+- file: representing_the_ssi_externally.md
+- file: fellowship_programme_requests.md
+- file: training_requests_brief.md
+- file: how_to_use_github_repos.md
+- file: data_management_policies.md
