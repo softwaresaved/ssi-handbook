@@ -1,7 +1,4 @@
-# HR policies
-
-
-# Induction and Offboarding for SSI staff
+# HR Policies
 
 
 ## Induction
@@ -18,13 +15,13 @@ The line manager should do the following:
 
 - [ ] Ensure that the new start has a University of Edinburgh account (either staff or visitor) with the correct permissions (Giacomo for visitor accounts for non Edinburgh SSI, Edinburgh staff will already have an account)
 - [ ] Request a @software.ac.uk email alias to be setup (Giacomo)
-- [ ] Request the new start is added to the appropriate mailing lists: (link to mailing lists handbook section) All SSI staff should be on ssi-staff mailing list. (Giacomo)
+- [ ] Request the new start is added to the appropriate mailing lists: [Mailing lists](./mailing_lists.md). All SSI staff should be on ssi-staff mailing list. (Giacomo)
 - [ ] Get the new start added to the GitHub SoftwareSaved organisation “Core” team (Any of Aleks, Giacomo, Neil, Shoaib, Simon, Steve, or Selina).
-- [ ] Get the new start added to the SoftwareSaved Mattermost team. Anyone can add team members. Instructions for joining Mattermost
+- [ ] Get the new start added to the SoftwareSaved Mattermost team. Anyone can add team members. Instructions for joining [Mattermost](https://docs.google.com/document/d/1s6AatvH29rKw03QSMc6bYKeNIuE3HpaS3253ygvb8lY/edit?usp=sharing)
 - [ ] Get the new start’s Google ID added to the SSI-Ops Google Group to give them access to the SSI Events and Availability Calendar and SSI-Ops Google Drive Folder (Neil)
-- [ ] Add the new start’s details to the internal staff list: (link to SSI Staff list)
-- [ ] Ask new start to familiarise themselves with the (link to ssi database of responsibilities v1.0)
-- [ ] Identify which meetings the new start should join: (list of SSI meetings) and send an invite through the SSI calendar. 
+- [ ] Add the new start’s details to the internal staff list: [SSI Staff List](https://docs.google.com/spreadsheets/d/1mtX9qWfNoOAa-R-EMYN1O7shFUgFZYOiIiIaGYsp_dw/edit?usp=sharing)
+- [ ] Ask new start to familiarise themselves with the [SSI Database of Responsibilities](https://docs.google.com/spreadsheets/d/1YrXfjiY-sjYsUTIfnkrUb66lUQ-R4OoDIhAzCuqA2cQ/edit?usp=sharing)
+- [ ] Identify which meetings the new start should join: [List of SSI Meetings](./list_of_ssi_meetings.md) and send an invite through the SSI calendar. 
 - [ ] Set up regular line meetings
 
 The minder should cover the following:
@@ -40,7 +37,7 @@ The minder should cover the following:
 - [ ] (Try to) explain the structure of the SSI-Ops Google Drive
 - [ ] How to sign up for Github if required
 - [ ] How to sign up for Lastpass, and how to request access
-- [ ] Make new start aware of SSI-specific HR policies: (link to SSI HR policies)
+- [ ] Make new start aware of SSI-specific HR policies
 - [ ] Explain the different regular meetings and what happens in them
 - [ ] Explain Slack etiquette, including Today messages
 - [ ] Help the new start to write a short hello message on Mattermost
@@ -73,7 +70,7 @@ The staff member’s line manager should do the following:
 - [ ] Discuss handover with relevant Director to ensure all aspects of the role have been covered
 
 
-# How to book leave (e.g. who should you ask/let know?)
+## How to book leave (e.g. who should you ask/let know?)
 
 
 
@@ -96,7 +93,7 @@ If the leave request is for longer than three days,
 - [ ] Send an email to [staff@software.ac.uk](mailto:staff@software.ac.uk) letting people know of your booked leave. This applies to leave that lasts longer than two days.  
 
 
-# Agreeing travel 
+## Agreeing travel 
 
 
 
@@ -111,10 +108,10 @@ For line/project managers:
 
 - [ ] Inform the PMO so they can keep a record of the expense. 
 
-If you need support from the PMO to book travel from the SSI Edinburgh travel budget, please read: 
+If you need support from the PMO to book travel from the SSI Edinburgh travel budget, please read: [PMO Procedures](./pmo_procedures_for_ssi_staff.md)
 
 
-# Attending events
+## Attending events
 
 
 ## Staff training 

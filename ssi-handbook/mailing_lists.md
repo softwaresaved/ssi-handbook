@@ -1,4 +1,16 @@
-# SSI mailing lists
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+</style>
+
+# SSI Mailing Lists
 
 
 <table>
@@ -19,11 +31,7 @@
    </td>
    <td>8 May 2024
    </td>
-   <td>Final version before the start SSI4. For changes, see 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: undefined internal link (link text: "here"). Did you generate a TOC with blue links? </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-<a href="#heading=h.6kzea4nplw2f">here</a>.
+   <td> Final version before the start SSI4. For changes, see <a href="#mailing-lists-2024">here</a>
    </td>
   </tr>
   <tr>
@@ -37,13 +45,6 @@
    </td>
   </tr>
 </table>
-
-
-Contents
-
-
-[TOC]
-
 
 
 ## Current SSI mailing lists
@@ -205,7 +206,7 @@ Always follow best practice when communicating by email:
 * Make sure you’re answering the question(s) asked in the email
 * No “CC shaming” - Think before you cc other people (outside the info@software.ac.uk recipients) in the email
 
-
+(mailing-lists-2024)=
 ## Mailing lists changes in May 2024
 
 This document contains a table with the changes made to sympa mailing lists in March 2024. 
