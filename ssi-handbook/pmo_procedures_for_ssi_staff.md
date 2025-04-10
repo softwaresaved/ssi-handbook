@@ -61,7 +61,7 @@ This document is aimed at informing SSI Staff / Fellows on the procedures and ti
 
 ### 1.1 Paying Fellows Expense Claims
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -132,6 +132,7 @@ Create a folder in sharepoint with lowFAT ID and fellows name.
    </td>
   </tr>
 </table>
+-->
 
 
 **Task:** Paying Fellows Expense Claims  
@@ -170,7 +171,7 @@ Fellows must submit an expense claim within 3 months of the event.
 
 ### 1.2 Booking and paying for a venue / catering on behalf of a Fellow
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -266,6 +267,7 @@ This is done so the final LowFAT balance is updated.
    </td>
   </tr>
 </table>
+-->
 
 
 **Task:** Booking and paying for a venue / catering on a Fellow's behalf  
@@ -309,7 +311,7 @@ Booking on someone's behalf is made in special circumstances, e.g. when costs wo
 
 ### 1.3 Booking travel for a Fellow or on behalf of a Fellow
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -401,6 +403,7 @@ This is done so the final LowFAT balance is updated.
    </td>
   </tr>
 </table>
+-->
 
 
 
@@ -446,7 +449,7 @@ International travel: 8 weeks
 
 ### 1.4 Fellows claims paid before the expense is occurred (prepayment)
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -519,6 +522,7 @@ How to buy process.
    </td>
   </tr>
 </table>
+-->
 
 
 
@@ -559,7 +563,7 @@ Prepayment would normally be approved if it is felt that the Fellow would experi
 
 ### 1.5 Paying Casual Workers (paying non-SSI Staff on behalf of a Fellow)
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -648,6 +652,7 @@ The purchase order MUST be in place before the work starts.
    </td>
   </tr>
 </table>
+-->
 
 
 **Task:** Paying Casual Workers (paying non-SSI Staff on behalf of a Fellow)
@@ -692,7 +697,7 @@ The purchase order MUST be in place before the work starts.
 
 ### 1.6 Other Purchases (on behalf of a Fellow)
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -745,6 +750,7 @@ The purchase order MUST be in place before the work starts.
    </td>
   </tr>
 </table>
+-->
 
 **Task:** Other Purchases (e.g. prizes, Love2shop vouchers, training courses, hardware)  
 **Minimum Time:** 16 weeks from first contact with PMO  
@@ -774,7 +780,7 @@ The purchase order MUST be in place before the work starts.
 
 ### 2.1 Paying External Staff or External Organisations
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -845,6 +851,7 @@ Most payments are made to trade suppliers, workers will need a Unique Tax Refere
    </td>
   </tr>
 </table>
+-->
 
 **Task:** Paying External Staff or Organisations  
 **Minimum Time:** 14 weeks from first contact with PMO  
@@ -870,7 +877,7 @@ Most payments are made to trade suppliers, workers will need a Unique Tax Refere
 
 ### 2.2 PMO Booking travel / hotel  for a third party (on behalf of  SSI staff)
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -935,6 +942,7 @@ Create a folder in sharepoint.
    </td>
   </tr>
 </table>
+-->
 
 
 **Task:** Booking travel / hotel on someone’s behalf  
@@ -968,7 +976,7 @@ Create a folder in sharepoint.
 
 ### 2.3 SSI sponsorship of an external event
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -1021,6 +1029,7 @@ Create a folder in Sponsorships area of sharepoint
    </td>
   </tr>
 </table>
+-->
 
 **Task:** SSI sponsorship of an external event  
 **Minimum Time:** 4 weeks
@@ -1045,7 +1054,7 @@ Create a folder in Sponsorships area of sharepoint
 
 ### 2.4 Sponsorship of an SSI event by an external organisation
 
-
+<!--
 <table>
   <tr>
    <td><strong>#</strong>
@@ -1100,6 +1109,7 @@ Create a folder in sharepoint
    </td>
   </tr>
 </table>
+-->
 
 **Task:** Sponsorship of an SSI event by an external organization  
 **Minimum Time:** 12 weeks (though payment can be received after the event)
@@ -1120,7 +1130,7 @@ Notes: None
 
 ### 2.5 Booking and paying for a venue / catering (on behalf of SSI Staff)
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -1175,7 +1185,7 @@ If the event cost is >5K then 3 quotes are required.
    </td>
   </tr>
 </table>
-
+-->
 
 **Task:** Booking and paying for a venue / catering  
 **Minimum Time:** 16 weeks from first contact with PMO
@@ -1201,7 +1211,7 @@ If the event cost is >5K then 3 quotes are required.
 
 ### 2.6 Other Purchases (on behalf of SSI Staff)
 
-
+<!--
 <table>
   <tr>
    <td>#
@@ -1254,7 +1264,7 @@ If the event cost is >5K then 3 quotes are required.
    </td>
   </tr>
 </table>
-
+-->
 
 **Task:** Other Purchases (e.g. prizes, love2shop vouchers, training courses)  
 **Minimum Time:** 16 weeks from first contact with PMO  
