@@ -14,9 +14,11 @@
 
 # PMO Procedures for SSI Staff
 
-This document outlines the main procedures undertaken by the PMO and outlines the timescale which SSI staff should consider when requesting these actions.  For financial and contractual processes we need to follow the instructions outlined by the University of Edinburgh (UoE). 
+This document outlines the main procedures undertaken by the PMO and the timescale which SSI staff need to consider when requesting these actions.  
 
-This document is aimed at informing SSI Staff / Fellows on the procedures and timescales.  Documentation for the PMO staff is detailed on the Finance Sharepoint site (email [admin@software.ac.uk](mailto:admin@software.ac.uk) for more info).  All PMO finance work must adhere to University of Edinburgh policy (outlined in People and Money).  There are additional notes for some of the activities below the tables.
+**For financial and contractual processes we need to follow the instructions set by the University of Edinburgh (UoE), outlined in People and Money.** 
+
+Documentation for the PMO staff is detailed on the Finance Sharepoint site (email [admin@software.ac.uk](mailto:admin@software.ac.uk) for more info).  
 
 
 ## Table of Contents
@@ -39,23 +41,31 @@ This document is aimed at informing SSI Staff / Fellows on the procedures and ti
 
 
 
-## Notes relevant to all payments
+## Notes relevant to all payments 
 
+**Approval from PI (Neil)**
+Email approval from the PI must be obtained before any of the following actions:
+ - Creating a Purchase Requisition.
+ - Confirming the Purchase of any item.
+ - Confirming the booking of a venue, catering or travel.
+ - Increasing the value of a Purchase Requisition.
+ - Sending UoE finance a payment request form.
 
+**Cash**
+Cash payments are discouraged at all times.
 
-1. Approval from PI: In the SSI an email approval from the PI must be provided for the following:
-    1. Sending finance a form for payment.
-    2. Creating a Purchase Requisition.
-    3. Confirming the Purchase of any item.
-    4. Confirming the booking of a venue, catering or travel.
-    5. Increase to the value of a Requisition.
-2. Cash payments are discouraged at all times.
-3. The provision of a Bank statement for UK payments is not a requirement by the UoE, but it can be useful to keep proof of payment in addition to the receipt:
-    6. In the case of shops and restaurants, a credit card payment slip is also acceptable as it shows partial card details, date and time of  the transaction etc.
-    7. In most cases bank statement excerpts should be presented. 
-4. A bank / card statement is required for international payments but not for UK payments.
-    8. Where a card payment statement is required, a detailed receipt must be submitted.  A card receipt does not provide enough information to support a claim.
-5. Travel: Must be done in accordance with the UoE Sustainable travel policy (there are exemptions in the EDIA section).
+**Bank statements**
+
+UK: The provision of a Bank statement for UK payments is not a requirement, but it can be useful.
+- In most cases a redacted bank statement is preferable. 
+- In the case of shops and restaurants, a credit card payment slip is also acceptable as it shows partial card details, date and time of  the transaction etc.
+
+International: A bank / card statement *is* required for international payments .
+- A redacted bank statement must be submitted to support international payments.
+- A card receipt alone does not provide enough information to support a claim.
+
+**Sustainability** 
+Travel Must be done in accordance with the UoE Sustainable travel policy (there are exemptions in the EDIA section).
 
 
 ## PMO Activities Involving Fellows 
