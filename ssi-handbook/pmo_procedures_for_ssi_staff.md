@@ -1,3 +1,4 @@
+<!--
 <style>
   table {
     border-collapse: collapse;
@@ -9,6 +10,7 @@
     padding: 8px;
   }
 </style>
+-->
 
 # PMO Procedures for SSI Staff
 
