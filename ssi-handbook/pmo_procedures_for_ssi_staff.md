@@ -44,6 +44,7 @@ Documentation for the PMO staff is detailed on the Finance Sharepoint site (emai
 ## Notes relevant to all payments 
 
 **Approval from PI (Neil)**
+
 Email approval from the PI must be obtained before any of the following actions:
  - Creating a Purchase Requisition.
  - Confirming the Purchase of any item.
@@ -52,6 +53,7 @@ Email approval from the PI must be obtained before any of the following actions:
  - Sending UoE finance a payment request form.
 
 **Cash**
+
 Cash payments are discouraged at all times.
 
 **Bank statements**
