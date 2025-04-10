@@ -135,7 +135,6 @@ Create a folder in sharepoint with lowFAT ID and fellows name.
 -->
 
 
-**Task:** Paying Fellows Expense Claims  
 This is the usual scenario in which the Fellow pays for an activity and later reclaims costs.
 
 **Minimum Time:**  
@@ -270,7 +269,6 @@ This is done so the final LowFAT balance is updated.
 -->
 
 
-**Task:** Booking and paying for a venue / catering on a Fellow's behalf  
 Note – this is the exception rather than the norm. Usually Fellows book & pay for their own travel, then reclaim (see 1.1).  
 Booking on someone's behalf is made in special circumstances, e.g. when costs would be prohibitive.
 
@@ -405,9 +403,6 @@ This is done so the final LowFAT balance is updated.
 </table>
 -->
 
-
-
-**Task:** Booking travel for a Fellow or on behalf of a Fellow  
 Note – this is the exception rather than the norm. Usually Fellows book their own travel, then reclaim (see 1.1).  
 Booking on someone's behalf is made when there are special circumstances, e.g. when costs would be prohibitive.
 
@@ -526,9 +521,7 @@ How to buy process.
 
 
 
-**Task:** Fellows claims paid before the expense is incurred (prepayment)  
-*Prepayment is the exception rather than the norm and will be considered on a case-by-case basis. The normal process is for Fellows to claim after the event (see 1.1).  
-Prepayment would normally be approved if it is felt that the Fellow would experience financial stress / hardship by upfront payment.*
+Prepayment is the exception rather than the norm and will be considered on a case-by-case basis. The normal process is for Fellows to claim after the event (see 1.1).  Prepayment would normally be approved if it is felt that the Fellow would experience financial stress / hardship by upfront payment.
 
 **Minimum Time:**  
 14 weeks from submission of LowFAT request
@@ -552,8 +545,6 @@ Prepayment would normally be approved if it is felt that the Fellow would experi
 
 
 1.4. Prepayment Terms and Conditions:
-
-
 
 * The following are non-refundable expenses - they would not be refunded to the SSI if e.g. if the event is cancelled 
     * In travel bookings, non-refundable flights/train fares must not be prepaid.
@@ -654,9 +645,6 @@ The purchase order MUST be in place before the work starts.
 </table>
 -->
 
-
-**Task:** Paying Casual Workers (paying non-SSI Staff on behalf of a Fellow)
-
 **Minimum Time:**  
 14 weeks from submission of LowFAT request
 
@@ -752,7 +740,6 @@ The purchase order MUST be in place before the work starts.
 </table>
 -->
 
-**Task:** Other Purchases (e.g. prizes, Love2shop vouchers, training courses, hardware)  
 **Minimum Time:** 16 weeks from first contact with PMO  
 *_(Can be faster if supplier is already registered)_*
 
@@ -853,8 +840,8 @@ Most payments are made to trade suppliers, workers will need a Unique Tax Refere
 </table>
 -->
 
-**Task:** Paying External Staff or Organisations  
 **Minimum Time:** 14 weeks from first contact with PMO  
+
 *Payment method must be arranged and approved BEFORE work starts.*
 
 - **Step 1 [SSI Staff Requestor]**: Email the PMO.
@@ -945,7 +932,6 @@ Create a folder in sharepoint.
 -->
 
 
-**Task:** Booking travel / hotel on someone’s behalf  
 **Minimum Time:**  
 - Domestic travel: 4 weeks  
 - International travel: 8 weeks
@@ -1031,7 +1017,6 @@ Create a folder in Sponsorships area of sharepoint
 </table>
 -->
 
-**Task:** SSI sponsorship of an external event  
 **Minimum Time:** 4 weeks
 
 - **Step 1 [SSI Staff Requestor]**: Email the PMO with details including; event details, contact name and details, agreed sponsorship amount and any conditions.
@@ -1111,7 +1096,6 @@ Create a folder in sharepoint
 </table>
 -->
 
-**Task:** Sponsorship of an SSI event by an external organization  
 **Minimum Time:** 12 weeks (though payment can be received after the event)
 
 - **Step 1 [SSI Staff Requestor]**: Email the PMO with details including; sponsoring organisation name, contact name and details, SSI event name and agreed sponsorship amount and any conditions.
@@ -1187,7 +1171,6 @@ If the event cost is >5K then 3 quotes are required.
 </table>
 -->
 
-**Task:** Booking and paying for a venue / catering  
 **Minimum Time:** 16 weeks from first contact with PMO
 
 - **Step 1 [SSI Staff Requestor]**: Email the PMO with key information including event date, venue, number of attendees, details of requirements (e.g. if catering is required).
@@ -1209,7 +1192,7 @@ If the event cost is >5K then 3 quotes are required.
 * UoE How to buy process: [How to buy process](https://uoe.sharepoint.com/sites/SSIFinancePlanning/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSSIFinancePlanning%2FShared%20Documents%2FPeople%20%26%20Money%20Guides%20and%20Training%2FPurchase%20Ledger%2FPurchase%20Requisition%20Process%20People%20and%20Money%20PM%2D3706%20%2D%20Requestor%20%2D%20Creating%20a%20Non%2DCatalog%20Smart%20Form%20Requisition%2Epdf&parent=%2Fsites%2FSSIFinancePlanning%2FShared%20Documents%2FPeople%20%26%20Money%20Guides%20and%20Training%2FPurchase%20Ledger)
 
 
-### 2.6 Other Purchases (on behalf of SSI Staff)
+### 2.6 Other Purchases (on behalf of SSI Staff), eg vouchers, prizes 
 
 <!--
 <table>
@@ -1266,7 +1249,6 @@ If the event cost is >5K then 3 quotes are required.
 </table>
 -->
 
-**Task:** Other Purchases (e.g. prizes, love2shop vouchers, training courses)  
 **Minimum Time:** 16 weeks from first contact with PMO  
 *Can be faster if supplier is already registered*
 
