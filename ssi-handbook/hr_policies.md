@@ -23,6 +23,7 @@ The line manager should do the following:
 - [ ] Ask new start to familiarise themselves with the [SSI Database of Responsibilities](https://docs.google.com/spreadsheets/d/1YrXfjiY-sjYsUTIfnkrUb66lUQ-R4OoDIhAzCuqA2cQ/edit?usp=sharing)
 - [ ] Identify which meetings the new start should join: [List of SSI Meetings](./list_of_ssi_meetings.md) and send an invite through the SSI calendar. 
 - [ ] Set up regular line meetings
+- [ ] The line manager should have a discussion with the new start outlining SSI’s commitment to environmental sustainability and direct them to appropriate resources (e.g., training, SSI Sustainability Policy, University sustainability commitments).
 
 The minder should cover the following:
 
