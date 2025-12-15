@@ -31,3 +31,21 @@ Non-sensitive data will be stored in Google Drive and GitHub, with backups at Ed
 Long-term data preservation is ensured through repositories like Zenodo, with metadata and documentation facilitating reuse. Data security measures include compliance with ISO 27001 standards, encryption protocols, and controlled access. Sharing will be facilitated under open licenses (CC BY for data, BSD 3-clause for software), with some restrictions for personal, proprietary, or confidential data. Exclusive use periods for project data will be clearly defined before transitioning to broader access.
 
 Governance of data access ensures compliance with ethical, contractual, and regulatory obligations, including anonymisation strategies where necessary. The Principal Investigator, Neil Chue Hong, oversees data management, with operational responsibilities delegated within the team. Policies from the University of Edinburgh govern data security, protection, and sharing. The DMP emphasises transparency, responsible data use, and long-term sustainability of research outputs.
+
+## Data storage - key points
+
+The above text sets out the data management plan for SSI-4. The following bullet points are key points for SSI staff to be aware of:
+
+- **Google Drive must *never* be used for any sensitive data.** This includes (but is not limited to) email addresses, dietary requirements, and accessibility information. This is the responsibility of *all* SSI staff.
+
+- **Sensitive data must not be downloaded to personal devices** (including laptops, phones, USB sticks, or local drives) and, if shared, must be shared securely using approved methods only.
+
+- **All sensitive data must be stored on OneDrive** and access must be restricted to individuals who need the data to carry out their role.
+
+- **Sensitive data should be retained only for as long as necessary** and securely deleted in line with the retention schedule outlined at the point of collection.
+
+- **In the case of a potential or suspected data breach**, SSI staff should:
+  - Email **Neil** and the **PMO** immediately for advice.
+  - **Report the incident to the University of Edinburgh** by emailing **dpo@ed.ac.uk** with **“breach”** in the subject line.
+
+- **All SSI staff have access to data security training** through their home institutions and must ensure that their training is up to date.
