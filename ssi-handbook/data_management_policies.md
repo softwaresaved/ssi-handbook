@@ -49,3 +49,5 @@ The above text sets out the data management plan for SSI-4. The following bullet
   - **Report the incident to the University of Edinburgh** by emailing **dpo@ed.ac.uk** with **“breach”** in the subject line.
 
 - **All SSI staff have access to data security training** through their home institutions and must ensure that their training is up to date.
+
+- To comply with our aims of **environmental sustainability, the SSI promotes good data hygiene practices**, including periodic review of stored data and deletion of outdated or unnecessary files.
