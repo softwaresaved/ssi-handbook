@@ -24,7 +24,7 @@ The line manager should do the following:
 - [ ] Identify which meetings the new start should join: [List of SSI Meetings](./list_of_ssi_meetings.md) and send an invite through the SSI calendar. 
 - [ ] Set up regular line meetings
 - [ ] The line manager should have a discussion with the new start outlining SSI’s commitment to environmental sustainability and direct them to appropriate resources (e.g., training, SSI Sustainability Policy, University sustainability commitments).
-  - [ ] Training e.g. https://www.ebi.ac.uk/training/online/courses/sustainable-computing-in-science/ or see the full list of training at [Green RSE SIG](https://socrse.github.io/green-sig/resources.html).
+  - [ ] Training e.g. https://www.ebi.ac.uk/training/online/courses/sustainable-computing-in-science/ or see the full list of training at [Green RSE SIG](https://socrse.github.io/green-sig/resources.html), all training completed should be logged on the SSI metrics tracker.
   - [ ] SSI Sustainability policy: https://www.software.ac.uk/environmental-sustainability-policy
 
 
