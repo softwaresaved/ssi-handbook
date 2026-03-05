@@ -360,6 +360,22 @@ UNIVERSE-HPC PMO.
 <p>
 -Build and manage Hidden REF community, deliver competition and festival
    </td>
-  </tr>
+</tr>
+
+<tr>
+   <td>Ben Thomas
+   </td>
+   <td>Southampton
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td> - SSI Sustainability representative for Southampton
+</tr>
+
 </table>
 
