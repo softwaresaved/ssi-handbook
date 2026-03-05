@@ -130,7 +130,10 @@
 <p>
 (other projects: EVERSE, UNIVERSE HPC, TDSA)
    </td>
-   <td>- Project management of SSI meetings (Ad Board, staff meetings), data management, SSI adjacent projects such as UNIVERSE HPC, EVERSE.
+   <td>
+     - Project management of SSI meetings (Ad Board, staff meetings)
+     <p>
+      - SSI adjacent projects such as UNIVERSE HPC, EVERSE.
 <p>
 - Overseeing PMO finance and support activities
 <p>
