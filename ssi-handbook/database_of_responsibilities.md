@@ -374,7 +374,8 @@ UNIVERSE-HPC PMO.
    <td>
    </td>
    <td>
-   </td> - SSI Sustainability representative for Southampton
+     - SSI Sustainability representative for Southampton
+   </td> 
 </tr>
 
 </table>
