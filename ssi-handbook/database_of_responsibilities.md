@@ -124,11 +124,11 @@
    </td>
    <td>PMO
    </td>
-   <td>Project management, PMO, Finance, Meeting organisation (Ad Board, F2F)
+   <td>Project management, PMO, Finance, Meeting organisation (Ad Board, F2F), Environmental Sustainability
 <p>
 (other projects: EVERSE, UNIVERSE HPC, TDSA)
    </td>
-   <td>- Project management of SSI meetings (Ad Board, staff meetings), data management, SSI adjacent projects such as UNIVERSE HPC, EVERSE.
+   <td>- Project management of SSI meetings (Ad Board, staff meetings), data management, SSI adjacent projects such as UNIVERSE HPC, EVERSE, SSI sustainability representative (Edinburgh).
 <p>
 - Overseeing PMO finance and support activities
    </td>
