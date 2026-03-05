@@ -112,6 +112,8 @@
 <p>
 - Newsletter, Community Calls
 <p>
+  - SSI sustainability representative (Manchester)
+<p>
 - lowFAT (issues related to Fellows)
    </td>
   </tr>
@@ -128,10 +130,13 @@
 <p>
 (other projects: EVERSE, UNIVERSE HPC, TDSA)
    </td>
-   <td>- Project management of SSI meetings (Ad Board, staff meetings), data management, SSI adjacent projects such as UNIVERSE HPC, EVERSE, SSI sustainability representative (Edinburgh).
+   <td>- Project management of SSI meetings (Ad Board, staff meetings), data management, SSI adjacent projects such as UNIVERSE HPC, EVERSE.
 <p>
 - Overseeing PMO finance and support activities
+<p>
+- SSI sustainability representative (Edinburgh)
    </td>
+    
   </tr>
   <tr>
    <td>Denis Barclay
