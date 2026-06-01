@@ -537,9 +537,6 @@ How to buy process.
 
 Prepayment is the exception rather than the norm and will be considered on a case-by-case basis. The normal process is for Fellows to claim after the event (see 1.1).  Prepayment would normally be approved if it is felt that the Fellow would experience financial stress / hardship by upfront payment.
 
-**Minimum Time:**  
-14 weeks from submission of LowFAT request
-
 - **Step 1 [Fellow]**: Submit an application through LowFAT.  
   Highlights in the application that payment before the event is required.  
   Application outlines key details including person’s name, purpose, and cost.  
