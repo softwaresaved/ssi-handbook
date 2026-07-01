@@ -688,7 +688,7 @@ The purchase order MUST be in place before the work starts.
 
 
 * SSI Casual Workers Data Information Form; [LINK](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYZe1OkjqWhBJjzo7t4mHBUBUQVJXSjRYS0hDTFoyUDQ3VjQxTFNaS0dYNSQlQCN0PWcu&route=shorturl)
-* Guidance on how to pay casual worker: [Process - Payment to Casual Worker (21-June-2023)SS.pdf](https://drive.google.com/file/d/1CLJX7xDvgoK3ytw6FWie1kdfukVA2kqG/view?usp=sharing)
+* Guidance on how to pay casual worker: [[Process - Payment to Casual Worker June 2026.pdf](https://drive.google.com/file/d/1CLJX7xDvgoK3ytw6FWie1kdfukVA2kqG/view?usp=sharing)](https://drive.google.com/file/d/1wcyZ_f3AJrzNmNDbOi-rqUByEPAhZMZ7/view?usp=drive_link)
 * Multiple payment routes:
     * Trade Supplier route: - Requisition  raised by PMO - PO attained from P&M and ensure it is received by the supplier (Supplier registration (if needed) done within the claim form).
     * Payroll route (GDPR): - External: F100 sent to the external staff -  Obtain necessary approvals (Maureen and Neil) - Use the signed (approved) form and create a service request in P&M
