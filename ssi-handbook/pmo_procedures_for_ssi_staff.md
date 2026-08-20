@@ -1046,6 +1046,7 @@ Create a folder in Sponsorships area of sharepoint
 
 
 * Sponsorship section in Sharepoint: SSI-4, SSI-4 Payments, Sponsorships
+* Note: 20/08/2026:  UoE procurment have advised us that all sponsorships will now be paid via the trade supplier method (purchase orders). This is a change from the previous advice given in UoE How to Buy, but the How to Buy guide has not yet been update. 
 
 
 ### 2.4 Sponsorship of an SSI event by an external organisation
