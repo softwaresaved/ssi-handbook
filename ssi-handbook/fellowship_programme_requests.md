@@ -31,7 +31,7 @@
    </td>
    <td>24/04/2024
    </td>
-   <td>SSI
+   <td>Institute
    </td>
    <td>First draft by Oscar and Shoaib
    </td>
@@ -41,7 +41,7 @@
    </td>
    <td>29/04/2024
    </td>
-   <td>SSI
+   <td>Institute
    </td>
    <td>Comments by Selina
    </td>
@@ -51,9 +51,19 @@
    </td>
    <td>10/06/2024
    </td>
-   <td>SSI
+   <td>Institute
    </td>
    <td>Comments by Oscar
+   </td>
+  </tr>
+  <tr>
+   <td>0.4
+   </td>
+   <td>19/10/2026
+   </td>
+   <td>Institute
+   </td>
+   <td>Changed SSI to Institute
    </td>
   </tr>
 </table>
@@ -81,7 +91,7 @@ Benefits for staff members:
 
 
 
-* **Better Selection Better Fellows**: Diverse staff perspectives contribute to a more comprehensive evaluation of the candidates. Specifically, staff can identify candidates whose goals and values align with the goals and objectives of the SSI.
+* **Better Selection Better Fellows**: Diverse staff perspectives contribute to a more comprehensive evaluation of the candidates. Specifically, staff can identify candidates whose goals and values align with the goals and objectives of the Institute.
 * **Professional development**: Staff members gain experience in recruitment and selection which they can apply to recruiting new staff members. 
 * **Awareness and networking**: Staff members gain awareness of current topics in the research software landscape and the people engaged in these topics.
 * **Increased staff investment**: Involving staff in the selection process increases their investment in the success of the Fellowship Programme and its Fellows.  
@@ -105,10 +115,10 @@ Please inform the Fellowship Manager as soon as possible of any upcoming or curr
 
 
 
-* An initiative, study group, or project is identified by the Community Team as having potential for further development and/or relevant to the goals and objectives of the SSI or the Fellowship Programme. 
-* The Fellowship Manager will report the idea at the SSI Research Meeting and discuss possible (financial) support or involvement of SSI staff members. 
-    * If the All SSI Meeting is more appropriate, the idea will be presented there. 
-* If the idea leads to a project or funding proposal, this will be reported at the All SSI meeting.
+* An initiative, study group, or project is identified by the Community Team as having potential for further development and/or relevant to the goals and objectives of the Institute or the Fellowship Programme. 
+* The Fellowship Manager will report the idea at the Institute Research Meeting and discuss possible (financial) support or involvement of Institute staff members. 
+    * If the All Institute Meeting is more appropriate, the idea will be presented there. 
+* If the idea leads to a project or funding proposal, this will be reported at the All Institute meeting.
 
 
 #### Relevant links 
@@ -127,7 +137,7 @@ Introduction:
 * Source
     * Email to [info@software.ac.uk](mailto:info@software.ac.uk)
         * Fellowship Lead will handle this request
-    * Any other member of the SSI has had a discussion with a group who are interested in running a Fellowship programme
+    * Any other member of the Institute has had a discussion with a group who are interested in running a Fellowship programme
         * Do introductions via email and hand over to the Fellowship Lead
             * As a courtesy it would be good to have a conversation or even a slack exchange with the Fellowship Lead to give them a heads up that this is coming
 * Fellowship Lead to arrange to work with the other group to arrange an initial meeting
@@ -136,7 +146,7 @@ Introduction:
     * Could offer to look at their initial plan
     * If the timing is right and there is a good fit - could offer to allow them to be reviewers on the next round of Fellowship - to gain experience
     * There could be other help - e.g. turning up to their launch event/webinar to talk about the benefits of being part of such a programme to lend credibility
-    * Ask them to give credit/reference to the SSI programme 
+    * Ask them to give credit/reference to the Institute programme 
     * If ongoing support is needed
         * This needs to be a further discussion
             * Better to have time costed in at the grant level
