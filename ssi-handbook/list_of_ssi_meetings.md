@@ -206,11 +206,11 @@ No agenda.
   <tr>
    <td>Finance quarterly
    </td>
-   <td>Kirsty, Giacomo, Kathleen, Sohail, Neil, Selina, Kathryn Williamson (External)
+   <td>Kirsty, Giacomo, Kathleen, Sohail, Neil, Selina, Michal
    </td>
    <td>Quarterly
    </td>
-   <td>Kathleen
+   <td>Kathleen & Michal
    </td>
    <td>
    </td>
@@ -232,7 +232,7 @@ No agenda.
    </td>
   </tr>
   <tr>
-   <td>Fellowship & Community
+   <td>Fellowship
    </td>
    <td>Shoaib, Oscar, Neil, 
 <p>
@@ -242,7 +242,21 @@ Potentially Kirsty.
    </td>
    <td>Neil
    </td>
-   <td>Discussion of Fellowship & community strategy & tactics
+   <td>Discussion of Fellowship strategy & tactics
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>Community
+   </td>
+   <td> Oscar, Neil, Michael, and Aman. Lyndsey and Shoiab optional.
+   </td>
+   <td>Fortnightly
+   </td>
+   <td>Neil
+   </td>
+   <td>Discussion of community strategy & tactics
    </td>
    <td>
    </td>
