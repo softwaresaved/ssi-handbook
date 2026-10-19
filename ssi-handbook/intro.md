@@ -1,4 +1,4 @@
-# Welcome to the SSI Handbook
+# Welcome to the Institute Handbook
 
 ```{tableofcontents}
 ```
