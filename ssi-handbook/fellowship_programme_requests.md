@@ -72,6 +72,7 @@
 * [Recruitment and Selection](recruitment-and-selection)
 * [Progression of Fellows Ideas](progression-of-fellows-ideas)
 
+(recruitment-and-selection)=
 ## Recruitment and selection
 
 Staff members participate in various stages of the recruitment and selection process of the Fellowship Programme, from outreach and advertising to reviewing applications and conducting interviews.
