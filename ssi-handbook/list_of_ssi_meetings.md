@@ -37,7 +37,7 @@
    </td>
    <td>Away Days for Institute staff. 
 <p>
-Goals: Get to know each other and discuss broader Institute topics/strategy. \
+Goals: Get to know each other and discuss broader Institute topics/strategy.
 
 <p>
 All staff are required to attend.
@@ -139,52 +139,6 @@ No agenda.
    <td>Give a brief update of what you’ve been focussing on in the previous month and what you’re next month is looking like.
 <p>
 Chair if your name is next on the list. <a href="https://docs.google.com/document/d/1bBYSStAcbSVxZlFJNa8v-4LbwA0paBbatl-sR-YvIUU/edit">Chair rota</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>Ideas
-   </td>
-   <td>Online
-   </td>
-   <td>Every four weeks
-   </td>
-   <td>Goals:
-<p>
-Space to provide input or feedback on new ideas / strategy proposed by other Institute team members.
-   </td>
-   <td>Organised by: PMO
-<p>
-Agenda: Kirsty Pringle
-<p>
-<strong>Encouraged to attend:</strong> All staff 
-   </td>
-   <td>Suggest a topic to be discussed and request input & feedback from staff. 
-<p>
-The topics will be curated by Kirsty. 
-   </td>
-  </tr>
-  <tr>
-   <td>Show & Tell
-   </td>
-   <td>Online
-   </td>
-   <td>Every two months
-   </td>
-   <td>Goals:
-<p>
-SSI Staff present work they’ve been doing, showcasing achievements, lessons learnt, things that worked well. 
-<p>
-It’s meant to be a relaxed meeting where staff can take a break to reflect and celebrate the work we do. 
-   </td>
-   <td>Organised by: Directorate 
-<p>
-Agenda: Selina Aragon
-<p>
-<strong>Welcome & encouraged to attend: </strong>All staff.
-   </td>
-   <td>Request a slot to present work that you’ve been doing/are proud of. 
-<p>
-Selina will curate these. 
    </td>
   </tr>
 </table>
