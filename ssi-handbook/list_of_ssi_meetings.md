@@ -118,13 +118,13 @@ Directorate & Ad Board chair
    </td>
   </tr>
   <tr>
-   <td>Status
+   <td>Show & Tell
    </td>
    <td>Online
    </td>
-   <td>Every four weeks
+   <td>Every two-four weeks
    </td>
-   <td>Goals: Celebrate achievements no matter how small.
+   <td>Goals: Opportunity to share and discuss ideas with other Institute staff.
 <p>
 A place to request input or help
 <p>
@@ -136,9 +136,7 @@ No agenda.
 <p>
 <strong>Required to attend:</strong> all Institute staff
    </td>
-   <td>Give a brief update of what you’ve been focussing on in the previous month and what you’re next month is looking like.
-<p>
-Chair if your name is next on the list. <a href="https://docs.google.com/document/d/1bBYSStAcbSVxZlFJNa8v-4LbwA0paBbatl-sR-YvIUU/edit">Chair rota</a> 
+   <td>Request a slot to present work that you’ve been doing/are proud of. Selina will curate these. 
    </td>
   </tr>
 </table>
