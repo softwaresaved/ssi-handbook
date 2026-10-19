@@ -10,7 +10,7 @@
   }
 </style>
 
-# List of SSI Meetings
+# List of Institute Meetings
 
 
 <table>
@@ -25,7 +25,7 @@
    </td>
    <td><strong>Notes</strong>
    </td>
-   <td><strong>What do SSI staff need to do?</strong>
+   <td><strong>What do Institute staff need to do?</strong>
    </td>
   </tr>
   <tr>
@@ -35,18 +35,18 @@
    </td>
    <td>Every two years
    </td>
-   <td>Away Days for SSI staff. 
+   <td>Away Days for Institute staff. 
 <p>
-Goals: Get to know each other and discuss broader SSI topics/strategy. \
+Goals: Get to know each other and discuss broader Institute topics/strategy. \
 
 <p>
 All staff are required to attend.
    </td>
    <td>Organised by: PMO
 <p>
-Agenda curator: Kirsty with input from SSI staff and Directorate sign-off 
+Agenda curator: Kirsty with input from Institute staff and Directorate sign-off 
 <p>
-<strong>Required to attend in person</strong>: All SSI staff
+<strong>Required to attend in person</strong>: All Institute staff
    </td>
    <td>Save the date in your diary when ready.
 <p>
@@ -66,7 +66,7 @@ Attend and have fun getting to know your colleagues.
    </td>
    <td>Goals: Enable work on strategy from any/all team members, carve out time for longer GIDs 
 <p>
-E.g. A place where staff members can contribute to the direction of the SSI or specific SSI activities
+E.g. A place where staff members can contribute to the direction of the Institute or specific Institute activities
    </td>
    <td>Organised by: PMO
 <p>
@@ -78,15 +78,15 @@ Directorate & local team
 <p>
 <strong>Encouraged* to attend in person:</strong>
 <p>
-Project managers (Kirsty Pringle, Giacomo Peru, Oscar Seip, Shoaib Sufi, Anita Banerji, Aleks Nenadic, Lyndsey Ballantyne, Steve Crouch)
+Project managers
 <p>
 <strong>Encouraged** to attend in person (if local) or online:</strong>
 <p>
-SSI staff not listed above
+Institute staff not listed above
 <p>
 *We encourage staff to attend in person because it is beneficial to discuss operational and strategic matters in person, plus it aids team building across teams and sites.
 <p>
-**We encourage all other SSI staff either in person or online because this is a great opportunity to contribute to SSI strategy and make your voice heard.
+**We encourage all other Institute staff either in person or online because this is a great opportunity to contribute to Institute strategy and make your voice heard.
    </td>
    <td>Save the date in your diary. 
 <p>
@@ -104,7 +104,7 @@ From April 2025, there is a standing item for project management updates. Projec
    </td>
    <td>Every 6 months
    </td>
-   <td>Communicate progress and successes to key stakeholders, who in turn can provide expert feedback on the direction of the SSI.
+   <td>Communicate progress and successes to key stakeholders, who in turn can provide expert feedback on the direction of the Institute
    </td>
    <td>Organised by: PMO
 <p>
@@ -134,7 +134,7 @@ Inform others about what’s going on in your area/team
 <p>
 No agenda.
 <p>
-<strong>Required to attend:</strong> all SSI staff
+<strong>Required to attend:</strong> all Institute staff
    </td>
    <td>Give a brief update of what you’ve been focussing on in the previous month and what you’re next month is looking like.
 <p>
@@ -150,7 +150,7 @@ Chair if your name is next on the list. <a href="https://docs.google.com/documen
    </td>
    <td>Goals:
 <p>
-Space to provide input or feedback on new ideas / strategy proposed by other SSI team members.
+Space to provide input or feedback on new ideas / strategy proposed by other Institute team members.
    </td>
    <td>Organised by: PMO
 <p>
@@ -246,7 +246,7 @@ Selina will curate these.
    </td>
    <td>Giacomo
    </td>
-   <td>Update Neil & Selina on budget and forecasts, raise issues to do with SSI-4 finance
+   <td>Update Neil & Selina on budget and forecasts, raise issues to do with Institute finance
    </td>
    <td>
    </td>
@@ -298,9 +298,7 @@ Potentially Kirsty.
   <tr>
    <td>Communications & Events
    </td>
-   <td>Selina, Denis, Kyro, Lyndsey*
-<p>
-*attends when available
+   <td>Selina, Denis, Kyro, Lyndsey, Michael
    </td>
    <td>Weekly
    </td>
@@ -336,7 +334,7 @@ Anyone involved in research welcome to attend.
    </td>
    <td>Neil
    </td>
-   <td>Discuss SSI high level/strategic issues. 
+   <td>Discuss Institute high level/strategic issues. 
    </td>
    <td>Every week (back up meeting every other week can be cancelled)
    </td>
