@@ -10,7 +10,7 @@
   }
 </style>
 
-# SSI Mailing Lists
+# Institute Mailing Lists
 
 
 <table>
@@ -44,10 +44,20 @@
    <td>Added new ssi-grants list
    </td>
   </tr>
+  <tr>
+   <td>V1.3
+   </td>
+   <td>Michael Donnay
+   </td>
+   <td>19/10/2026
+   </td>
+   <td>Updated mention of Institute
+   </td>
+  </tr>
 </table>
 
 
-## Current SSI mailing lists
+## Current Institute mailing lists
 
 
 <table>
