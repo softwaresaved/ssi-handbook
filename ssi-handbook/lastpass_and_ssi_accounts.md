@@ -1,4 +1,4 @@
-# List of SSI shared accounts (Lastpass)
+# List of The Institute's shared accounts (Lastpass)
 
 A shared account is If relevant to your projects, you can request access to the following accounts. Contact your line manager if you’re unsure about access to these 
 
