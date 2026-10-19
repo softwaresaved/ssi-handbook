@@ -1,11 +1,11 @@
-# How to use the SSI GitHub Repos
+# How to use the Institute GitHub Repos
 
-All SSI staff should host the repositories for new projects on the [SSI GitHub](https://github.com/softwaresaved).
+All Institute staff should host the repositories for new projects on the [Institute GitHub](https://github.com/softwaresaved).
 
 If you’re new to GitHub, you can find guidelines about how to create new repos [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) 
 
 
-## SSI repositories requirements
+## Institute repositories requirements
 
 
 ### New repo
@@ -18,7 +18,7 @@ Please ensure your new repository has the following information before you start
 * Keywords
 * Relevant links to resources
 * Contact details
-* Relevant team (including non-SSI staff) added to the repo (see section below)
+* Relevant team (including non-Institute staff) added to the repo (see section below)
 
 
 ### Archiving a repo
